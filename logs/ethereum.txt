@@ -527,3 +527,4 @@ error code: 502
 {"jsonrpc":"2.0","id":1,"result":"0x5ab5623dd"}
 {"error":"{\"Error_GUID\":\"9271897165558875614\",\"Error\":\"Failed all retries {GUID:9271897165558875614,error:No pairings available.,chain_id:ETH1}\"}"}
 {"error":"{\"Error_GUID\":\"15168429934701669189\",\"Error\":\"Failed all retries {GUID:15168429934701669189,error:No pairings available.,chain_id:ETH1}\"}"}
+{"error":"{\"Error_GUID\":\"10286055114095238095\",\"Error\":\"Failed all retries {GUID:10286055114095238095,error:No pairings available.,chain_id:ETH1}\"}"}
