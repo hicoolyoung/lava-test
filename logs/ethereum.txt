@@ -529,3 +529,4 @@ error code: 502
 {"error":"{\"Error_GUID\":\"15168429934701669189\",\"Error\":\"Failed all retries {GUID:15168429934701669189,error:No pairings available.,chain_id:ETH1}\"}"}
 {"error":"{\"Error_GUID\":\"10286055114095238095\",\"Error\":\"Failed all retries {GUID:10286055114095238095,error:No pairings available.,chain_id:ETH1}\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0x579537749"}
+{"jsonrpc":"2.0","id":1,"result":"0x520f0ad6c"}
